@@ -1,0 +1,30 @@
+body{
+	background:#F5F5F5;
+}
+
+a{
+	color:#838383;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+	color:#838383;
+}
+
+#welcome-div{
+	height:80vh;
+	background:rgba(39,113,163,0.7);
+	padding-top:200px;
+	color:white;
+}
+
+.background{
+	height:80vh;
+	background:url(../images/event-pic1.png);
+	background-size:cover;
+}
+
+.padded{
+	padding:25px;
+}

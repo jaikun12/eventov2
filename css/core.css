@@ -1,0 +1,55 @@
+body, html{
+	margin:0;
+}
+
+*{
+	box-sizing:border-box;
+}
+
+.main-content{
+	padding:0;
+}
+
+.user-dp{
+	height:100px;
+	width:100px;
+
+}
+
+.user-qr{
+	height:100px;
+	width:100px;
+}
+
+.activity-bubble{
+	height:150px;
+	width:150px;
+}
+
+#hello-div{
+	/*border:solid black 1px;*/
+	margin-top:30px;
+	width:100%;
+	height:90vh;
+}
+
+#things-to-do{
+	margin-top:40px;
+	max-height:100px;
+}
+
+.divider{
+	border-bottom:solid #D5D5D5 1px;
+	width:90%;
+	margin:0 auto;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+a:hover{
+	text-decoration:none;
+	color:black;
+}

@@ -1,0 +1,25 @@
+*{
+	box-sizing:border-box;
+	font-family:'Open Sans';
+}
+
+.main-nav{
+	height:75px;
+	background:rgb(39,113,163);
+	width:100%;
+}
+
+.main-content{
+	margin:0 auto;
+	width:80%;
+}
+
+.map-container{
+	height:300px;
+	width:80%;
+	margin:0 auto;
+}
+
+.divider{
+	border-bottom:solid #BFBFBF 1px;
+}

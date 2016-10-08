@@ -1,0 +1,5 @@
+<script>
+//smooth scrolling
+
+			
+</script>

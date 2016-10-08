@@ -1,0 +1,38 @@
+.hollow-btn{
+	padding:5px 15px;
+	color:#0080FF;
+	border:solid #0080FF 1px;
+	margin:20px;
+	background:white;
+	border-radius:5px;
+	-o-transition:.2s;
+  	-ms-transition:.2s;
+  	-moz-transition:.2s;
+  	-webkit-transition:.2s;
+
+}
+
+.hollow-btn:hover{
+	text-decoration:none;
+	background:#0080FF;
+	color:white;
+}
+
+.btn-negative{
+	padding:5px 15px;
+	color:#FF8000;
+	border:solid #FF8000 1px;
+	margin:20px;
+	background:white;
+	border-radius:5px;
+	-o-transition:.2s;
+  	-ms-transition:.2s;
+  	-moz-transition:.2s;
+  	-webkit-transition:.2s;
+}
+
+.btn-negative:hover{
+	color:white;
+	text-decoration:none;
+	background:#FF8000;
+}

@@ -1,0 +1,32 @@
+.activity-card{
+	padding:20px;
+	margin:0px 0px 50px 0px;
+}
+
+.card-img{
+	width:100%;
+}
+
+.card-img-wrapper{
+	max-height:180px;
+	overflow:hidden;
+}
+
+.card-img-wrapper p{
+	position:absolute;
+	top:40px;
+	left:40px;
+	color:white;
+	background:rgba(0,0,0,0.6);
+	padding:10px;
+	width:80%;
+}
+
+.card-speaker{
+	height:30px;
+	width:30px;
+}
+
+.card-content{
+
+}
