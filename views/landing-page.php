@@ -50,7 +50,8 @@
 				</center>
 			</div>
 
-			<div id="things-to-do" class="container">
+			<div id="things-to-do" class="container bg1">
+				<div class="container">
 				<center>
 					<h1>Join the activities!</h1>
 					<p>The conference consists of different breakout sessions. Check them out below.</p>
@@ -137,7 +138,7 @@
 				 			</div>
 				 			<div class="divider"></div> -->
 					</div>
-
+					</div>
 				</div>
 			</div>
 		</div>
