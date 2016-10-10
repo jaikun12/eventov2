@@ -142,5 +142,8 @@
 			</div>
 		</div>
 		
+		<?php 
+			include("scripts.html");
+			?>
 	</body>
 </html>

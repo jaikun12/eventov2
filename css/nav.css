@@ -1,20 +1,43 @@
 nav{
 	height:50px;
-	border:solid black 1px;
-	padding:10px;
+	/*border:solid black 1px;*/
+	padding:0px;
+	background:rgba(255,255,255,0.9);
+
 }
+
+#nav1{
+	background:rgba(255,255,255,0.9);
+}
+/*nav:before {
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: -1;
+
+  display: block;
+  background: rgba(255,255,255,0.9);
+  background-size:cover;
+  width: 100%;
+  height: 100%;
+
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
+}*/
 
 .brand{
 	font-family:'Open Sans';
 	color:#158EE5;
-	float:left;
+	
 	margin:0;
 }
 
 #nav-menu{
-	float:left;
 	
-	margin-left:50px;
 }
 
 #nav-menu li{
